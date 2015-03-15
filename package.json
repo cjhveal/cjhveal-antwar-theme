@@ -12,9 +12,11 @@
     "react": "^0.12.2"
   },
   "dependencies": {
+    "css-loader": "^0.9.1",
     "extract-text-webpack-plugin": "^0.3.8",
     "moment": "^2.9.0",
     "sass-loader": "^0.5.0",
+    "style-loader": "^0.8.3",
     "webpack": "^1.7.3"
   }
 }
