@@ -1,7 +1,7 @@
 var React = require('react');
 var Nav = require('./Nav');
 
-require('./scss/main');
+require('./scss/main.scss');
 
 var config = require('config');
 if (config.site.theme.customStyles) {
